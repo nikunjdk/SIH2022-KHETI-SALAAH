@@ -1,0 +1,35 @@
+{
+  "bellary": {
+    "can grow": ["Wheat", "Onion", "Maize"],
+    "can not grow": ["Cotton", "Rice", "Sugarcrane", "Sunflower"]
+  },
+  "belgaum": {
+    "can grow": ["Wheat", "Onion", "Maize"],
+    "can not grow": ["Cotton", "Rice", "Sugar"]
+  },
+  "mandya": {
+    "can grow": ["Wheat", "Barley", "Oil Seads"],
+    "can not grow": [
+      "Cotton",
+      "Onion",
+      "Rice",
+      "Sugarcrane",
+      "Mustard",
+      "Groundnut"
+    ]
+  },
+  "mysore": {
+    "can grow": [
+      "Wheat",
+      "Onion",
+      "Maize",
+      "Sorghum",
+      "Barley",
+      "Chikpea",
+      "Groundnut",
+      "Mustard",
+      "Oilseads"
+    ],
+    "can not grow": ["Cotton", "Rice", "Sugarcrane", "Sunflower", "Soyabean"]
+  }
+}
